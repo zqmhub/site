@@ -1,0 +1,1 @@
+import{_}from"./_plugin-vue_export-helper-c27b6911.js";import{o,c as s,H as t}from"./index-bcedec0e.js";const r={},c={class:"bg"};function n(e,a){return o(),s("div",c,[t(e.$slots,"default",{},void 0,!0)])}const l=_(r,[["render",n],["__scopeId","data-v-b265f3f6"]]);export{l as B};
